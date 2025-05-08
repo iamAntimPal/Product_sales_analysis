@@ -34,8 +34,8 @@ The data comprises historical sales records (transactions, product metadata, cus
 
 product-data-analysis/
 └── data/
-├── raw/        # raw\_sales.csv
-└── processed/  # sales\_cleaned.csv
+├── raw/        # raw\_eletronics.csv
+└── processed/  # sales\eletronics_cleaned.csv
 
 ```
 
@@ -120,10 +120,8 @@ product-data-analysis/
 
    * Open and run cells in:
 
-     1. `notebooks/01_data_cleaning.ipynb`
-     2. `notebooks/02_eda.ipynb`
-     3. `notebooks/03_modeling.ipynb` (optional)
-     4. `notebooks/04_visualization.ipynb`
+     1. `notebooks/Sales_Analysis.ipynb`
+     2. `notebooks/Product_sales_analysis.ipynb`
 
 3. **Review outputs**
 
