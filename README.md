@@ -150,7 +150,7 @@ product-data-analysis/
 
    * Generate interactive or static plots.
    * Summarize key findings in dashboard format or PDF.
-
+<!--
 ## Sample Outputs
 
 ![Sales Trend Line](outputs/figures/sales_trend.png)
@@ -158,7 +158,7 @@ product-data-analysis/
 
 ![Product Category Distribution](outputs/figures/category_dist.png)
 *Distribution of sales across product categories.*
-
+-->
 ## Contributing
 
 Contributions are welcome! Please:
